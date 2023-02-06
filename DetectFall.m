@@ -7,7 +7,7 @@ while(1)
 [b,~] = angvellog(m);
 
 UFT_accel=2.8;                   % Upper Fall Threshold  2.8g
-UFT_ang=3.1;                     % Upper Fall Threshold  4.1 degree's
+UFT_ang=3.1;                     % Upper Fall Threshold  3.1 degree's
 
 % receive and judge six data are processed in one loop
 
